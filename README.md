@@ -11,12 +11,12 @@
 </div>
 
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Vini-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+  <img align="center" alt="Vini-Postgress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Vini-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Pandas" height="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Vini-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  
-  <img align="center" alt="Vini-Postgress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
   <img align="center" alt="Vini-Tensorflow" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
   <img align="center" alt="Vini-django" height="30" width="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
   <img align="center" alt="Vini-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
