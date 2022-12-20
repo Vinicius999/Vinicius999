@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Vinicius Silva 👋
-
+ 
 - 🔭 Atualmente, sou pesquisador na área de Ciência de Dados
 - 🌱 Estudando Python, SQL e PowerBI
 - 😄 Pronouns: ele/dele
