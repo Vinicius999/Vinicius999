@@ -10,7 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius999&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##
+ 
+---
 <h2 align="center"> Principais Linguagens e Tecnologias </h2>
   
 <div align="center" style="display: inline_block"><br>
@@ -30,7 +31,8 @@
   
 </div>
 
-##
+ 
+---
 <h2 align="center"> Meus Contatos </h2>
 
 <div align="center"> 
