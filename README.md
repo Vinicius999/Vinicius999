@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Silva 👋
  
-- 🔭 Atualmente, sou pesquisador na área de Ciência de Dados
-- 🌱 Estudando Python, SQL e PowerBI
+- 🔭 Atualmente, sou analista de Business Intelligence
+- 🌱 Estudando Big Query, SQL Server, ETL e PowerBI
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -16,14 +16,17 @@
 <h2 align="center"> Principais Linguagens e Tecnologias </h2>
   
 <div align="center" style="display: inline_block"><br>
-  
+ 
+ 
+  <img align="center" alt="Vini-SQL-Server" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Vini-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Vini-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
   <img align="center" alt="Vini-Postgress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Vini-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Pandas" height="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Vini-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Vini-Tensorflow" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
-  <img align="center" alt="Vini-django" height="30" width="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
+  <img align="center" alt="Vini-Django" height="30" width="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
   <img align="center" alt="Vini-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Vini-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -46,4 +49,3 @@
  
 </div>
 
- 
