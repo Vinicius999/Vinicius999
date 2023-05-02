@@ -17,24 +17,31 @@
   
 <div align="center" style="display: inline_block"><br>
 
-  <img align="center" alt="Vini-Postgress" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg">
-  <img align="center" alt="Vini-Postgress" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Vini-SQL-Server" height="35" width="35" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
-  <img align="center" alt="Vini-MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="Vini-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vini-Pandas" height="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Vini-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Vini-Tensorflow" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
-  <img align="center" alt="Vini-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+  <img align="center" alt="Vini-Postgress" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg">
+  <img align="center" alt="Vini-Postgress" height="38" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Vini-SQL-Server" height="40" width="40" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
+  <img align="center" alt="Vini-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Vini-Python" height="43" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-Pandas" height="46" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Vini-Numpy" height="52" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Vini-Tensorflow" height="33" width="46" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+  <img align="center" alt="Vini-PowerBI" height="34" width="47" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+  
+</div>
+
+---
+<h3 align="center"> Outras Linguagens e Tecnologias </h3>
+
+<div align="center" style="display: inline_block"><br>
+ 
   <img align="center" alt="Vini-Django" height="30" width="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
   <img align="center" alt="Vini-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Vini-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
 
+</div>
  
 ---
  
