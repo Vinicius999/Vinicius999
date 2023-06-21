@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Silva 👋
  
-- 🔭 Atualmente, sou analista de Business Intelligence
-- 🌱 Estudando Big Query, SQL Server, ETL e PowerBI
+- 🔭 Atualmente, sou Analista de Business Intelligence
+- 🌱 Estudando Engenharia de Dados: Apache Airflow, Big Query, SQL Server, ETL
 - 😄 Pronouns: ele/dele
 
 <div align="center">
