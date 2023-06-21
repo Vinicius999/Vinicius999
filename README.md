@@ -2,7 +2,6 @@
  
 - 🔭 Atualmente, sou Analista de Business Intelligence
 - 🌱 Estudando Engenharia de Dados: Apache Airflow, Big Query, SQL Server, ETL
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Vinicius999">
