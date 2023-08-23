@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinicius Silva 👋
  
-- 🔭 Atualmente, sou Analista de Business Intelligence
+- 🔭 Atualmente, sou Analista de Dados
 - 🌱 Estudando Engenharia de Dados: Apache Airflow, Big Query, SQL Server, ETL
 
 <div align="center">
