@@ -15,8 +15,8 @@
 <h2 align="center"> Principais Linguagens e Tecnologias </h2>
   
 <div align="center" style="display: inline_block"><br>
-          
-  <img align="center" alt="Vini-AWS" height="43" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">     
+
+  <img align="center" alt="Vini-AWS" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">     
   <img align="center" alt="Vini-BigQuery" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg">
   <img align="center" alt="Vini-Postgress" height="38" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Vini-SQL-Server" height="40" width="40" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
@@ -26,6 +26,7 @@
   <img align="center" alt="Vini-Numpy" height="52" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Vini-Tensorflow" height="32" width="41" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
   <img align="center" alt="Vini-PowerBI" height="33" width="45" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+  <img align="center" alt="Vini-Shell" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   
 </div>
 
