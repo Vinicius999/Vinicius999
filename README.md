@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Silva 👋
  
-- 🔭 Atualmente, sou Analista de Dados
-- 🌱 Estudando Engenharia de Dados: Apache Airflow, Big Query, SQL Server, ETL
+- 🔭 Atualmente, sou Engenheiro de Dados
+- 🌱 Estudando Engenharia de Dados: Dagster, DBT, Apache Airflow
 
 <div align="center">
   <a href="https://github.com/Vinicius999">
