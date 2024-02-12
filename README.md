@@ -16,7 +16,7 @@
   
 <div align="center" style="display: inline_block"><br>
 
-  <img align="center" alt="Vini-AWS" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">     
+  <img align="center" alt="Vini-AWS" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">     
   <img align="center" alt="Vini-BigQuery" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg">
   <img align="center" alt="Vini-Postgress" height="38" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Vini-SQL-Server" height="40" width="40" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
